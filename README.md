@@ -78,4 +78,4 @@ Optimize staffing and inventory based on demand trends
 Improve pricing strategies and introduce targeted offers
 
 📸 6. Dashboard Preview / Screenshot
-Dashboard Preview : ()
+Dashboard Preview : (https://github.com/Sushant69005/Pizza_Sales_Dashboard/blob/main/Screenshot%202026-04-18%20132757.png)
